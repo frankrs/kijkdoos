@@ -785,9 +785,9 @@ Prefab:
       propertyPath: m_Name
       value: Balloon
       objectReference: {fileID: 0}
-    - target: {fileID: 5095316, guid: d4673ed675ed6c44f9df6d284f959ec1, type: 2}
-      propertyPath: m_FixedAngle
-      value: 1
+    - target: {fileID: 11425704, guid: d4673ed675ed6c44f9df6d284f959ec1, type: 2}
+      propertyPath: gas
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d4673ed675ed6c44f9df6d284f959ec1, type: 2}
