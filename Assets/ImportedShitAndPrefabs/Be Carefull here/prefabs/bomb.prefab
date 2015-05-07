@@ -12,8 +12,6 @@ GameObject:
   - 23: {fileID: 2304638}
   - 60: {fileID: 6064962}
   - 50: {fileID: 5095316}
-  - 114: {fileID: 11430154}
-  - 114: {fileID: 11425704}
   m_Layer: 0
   m_Name: bomb
   m_TagString: Untagged
@@ -71,10 +69,10 @@ Rigidbody2D:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 172280}
   m_Mass: 1
-  m_LinearDrag: 1
+  m_LinearDrag: 0
   m_AngularDrag: .0500000007
-  m_GravityScale: .100000001
-  m_FixedAngle: 1
+  m_GravityScale: 1
+  m_FixedAngle: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_SleepingMode: 1
@@ -103,6 +101,7 @@ PolygonCollider2D:
       - {x: -.254289925, y: -.489171326}
       - {x: -.27462405, y: -.131398097}
       - {x: -.47552824, y: .154508561}
+<<<<<<< HEAD
 --- !u!114 &11425704
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -126,6 +125,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e281f52273b961745a0c18dc1240293a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+=======
+>>>>>>> parent of e7c49ca... simple up with the spacebar
 --- !u!1001 &100100000
 Prefab:
   m_ObjectHideFlags: 1

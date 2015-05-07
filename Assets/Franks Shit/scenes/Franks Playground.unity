@@ -725,9 +725,15 @@ Prefab:
       propertyPath: m_Name
       value: Balloon
       objectReference: {fileID: 0}
+<<<<<<< HEAD
     - target: {fileID: 172280, guid: d4673ed675ed6c44f9df6d284f959ec1, type: 2}
       propertyPath: m_StaticEditorFlags
       value: 0
+=======
+    - target: {fileID: 5095316, guid: d4673ed675ed6c44f9df6d284f959ec1, type: 2}
+      propertyPath: m_FixedAngle
+      value: 1
+>>>>>>> parent of e7c49ca... simple up with the spacebar
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d4673ed675ed6c44f9df6d284f959ec1, type: 2}
